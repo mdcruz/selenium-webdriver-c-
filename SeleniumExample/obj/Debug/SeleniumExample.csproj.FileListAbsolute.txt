@@ -1,0 +1,10 @@
+c:\users\mcruz\documents\visual studio 2015\Projects\SeleniumExample\SeleniumExample\bin\Debug\SeleniumExample.dll
+c:\users\mcruz\documents\visual studio 2015\Projects\SeleniumExample\SeleniumExample\bin\Debug\SeleniumExample.pdb
+c:\users\mcruz\documents\visual studio 2015\Projects\SeleniumExample\SeleniumExample\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\mcruz\documents\visual studio 2015\Projects\SeleniumExample\SeleniumExample\bin\Debug\WebDriver.dll
+c:\users\mcruz\documents\visual studio 2015\Projects\SeleniumExample\SeleniumExample\bin\Debug\WebDriver.Support.dll
+c:\users\mcruz\documents\visual studio 2015\Projects\SeleniumExample\SeleniumExample\bin\Debug\WebDriver.xml
+c:\users\mcruz\documents\visual studio 2015\Projects\SeleniumExample\SeleniumExample\bin\Debug\WebDriver.Support.xml
+c:\users\mcruz\documents\visual studio 2015\Projects\SeleniumExample\SeleniumExample\obj\Debug\SeleniumExample.csprojResolveAssemblyReference.cache
+c:\users\mcruz\documents\visual studio 2015\Projects\SeleniumExample\SeleniumExample\obj\Debug\SeleniumExample.dll
+c:\users\mcruz\documents\visual studio 2015\Projects\SeleniumExample\SeleniumExample\obj\Debug\SeleniumExample.pdb
