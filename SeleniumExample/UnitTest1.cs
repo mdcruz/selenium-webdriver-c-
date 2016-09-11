@@ -18,7 +18,7 @@ namespace SeleniumExample
         }
 
         [TestMethod]
-        public void TestFirefox()
+        public void TestGoogleSearch()
         {
             driver.Navigate().GoToUrl("http://www.google.co.uk");
             driver.FindElement(By.Id("lst-ib")).SendKeys("selenium");
