@@ -20,7 +20,7 @@ namespace SeleniumExample
         [TestMethod]
         public void TestGoogleSearch()
         {
-            
+            //test
             driver.Navigate().GoToUrl("http://www.google.co.uk");
             driver.FindElement(By.Id("lst-ib")).SendKeys("selenium");
             driver.FindElement(By.ClassName("lsb")).Click();
