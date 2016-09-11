@@ -25,6 +25,12 @@ namespace SeleniumExample
             driver.FindElement(By.ClassName("lsb")).Click();
         }
 
+        [TestMethod]
+        public void SimpleTest()
+        {
+            Assert.AreEqual(2, 1 + 1);
+        }
+
         [TestCleanup]
         public void CleanUp()
         {
