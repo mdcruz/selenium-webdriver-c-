@@ -28,6 +28,7 @@ namespace SeleniumExample
         [TestMethod]
         public void SimpleTest()
         {
+            //test
             Assert.AreEqual(20, 10 + 10);
         }
 
